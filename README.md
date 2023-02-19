@@ -12,19 +12,19 @@ AMD specific guide (also for B550) : https://dortania.github.io/OpenCore-Install
 SYSTEM INFO:
 ----------------------------------------------------------------------
 
-MotherBoard : Gigabyte B550 Aorus Elite AX V2 ( https://tinyurl.com/52ykzj4h )
+--MotherBoard : Gigabyte B550 Aorus Elite AX V2 ( https://tinyurl.com/52ykzj4h )
 
-CPU : AMD Ryzen 5 5600 X
+--CPU : AMD Ryzen 5 5600 X
 
-GPU : ASUS Radeon RX 5600 XT 6GB GDDR6 TUF Gaming X3 Evo ( https://tinyurl.com/5bcvtddn )
+--GPU : ASUS Radeon RX 5600 XT 6GB GDDR6 TUF Gaming X3 Evo ( https://tinyurl.com/5bcvtddn )
 
-Nvme M.2 SSD : KINGSTON SNV2S500G 500Gb 
+--Nvme M.2 SSD : KINGSTON SNV2S500G 500Gb 
 
-Audio : Realtek ALC1200 codec
+--Audio : Realtek ALC1200 codec
 
-Ethernet : Realtek 2.5GbE LAN chip
+--Ethernet : Realtek 2.5GbE LAN chip
 
-Wi-Fi / Bluetooth : Intel Wi-Fi 6 AX200 - Bluetooth 5
+--Wi-Fi / Bluetooth : Intel Wi-Fi 6 AX200 - Bluetooth 5
 
 
 BIOS Setup:
