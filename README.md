@@ -92,7 +92,8 @@ Extra Kexts folder contains kexts for Wi-Fi support , Bluetooth support and Powe
 
 Special Note :
 
-      In the extra kexts folder there is a USBMap.kext which is specially for this particular Motherboard done by me using USBmap Python Script https://github.com/corpnewt/USBMap .
+      In the extra kexts folder there is a USBMap.kext which is specially for this particular Motherboard
+       done using USBmap Python Script https://github.com/corpnewt/USBMap . Thanks to @corpnewt .
       If you don't have this MotherBoard do not add it and create your own USBMap.kext .
 
 
