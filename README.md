@@ -110,7 +110,7 @@ Special Note :
 
 
 
-Dont't forget -- OC Clean Snapshot of config.plist --  after addind the extra kexts.
+Dont't forget -- OC Snapshot of config.plist --  after addind the extra kexts.
 
 
 
