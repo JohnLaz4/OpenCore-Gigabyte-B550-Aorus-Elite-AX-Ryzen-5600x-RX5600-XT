@@ -114,6 +114,9 @@ Special Note :
 Dont't forget -- OC Snapshot of config.plist --  after addind the extra kexts.
 
 
+TO DO: Update Opencore , Update Kexts
+
+
 
 
 Cheers
